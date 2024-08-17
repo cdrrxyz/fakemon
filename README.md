@@ -1,2 +1,4 @@
 # fakemon
-An simple 3D game
+A simple 3D game
+
+Download pal3d.exe to play.
